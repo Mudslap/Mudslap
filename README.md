@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I am Vincent Aquino, a High Schooler who specializes in Front End Web Development and Python Coding. 
+🎓 I am Vincent Aquino, a High Schooler who specializes in Front End Web Development, Game Development, and Python Coding. 
 
 📃I really enjoy creating different games in both JavaScript, C#, and Pygame. Over my 7 years of coding, I have learned about different Python librarires such as NumPy, GPIO, and Pygame, built many websites with PyMongo, Bootstrap, HTML, CSS, JavaScript, SQL, and PHP, and have also started learning about Java, C++, and C#. I love to learn more about new languages, expand my knowledge on these application, and build unique and diverse projects.
 
