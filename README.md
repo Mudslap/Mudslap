@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🥁Outside of the world of code, I love finding new hobbies and activities to do. So far, I have found a variety of different hobbies such as playing basketball, football, the drums, video games, Speech and Debate, Robotics, and Kung Fu.
 
-###🏅 Accolades
+##🏅 Accolades
 - Competitor of the Year Teen Male Division USKSF (Kung Fu)
 - Over 20 Gold Medals won in Nationals in Kung Fu
 - Winner in the SCDULR Winter Middle School and High School Tournament for Speech and Debate
