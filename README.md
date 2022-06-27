@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - Winner in the SCDULR Winter Middle School and High School Tournament for Speech and Debate
 - Winner of Unlock Hacks
 - Winner of Best Qoom Hack in Treasure Hacks
+- Successfully completed an internship with Alan AI
